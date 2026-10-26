@@ -75,15 +75,22 @@ O SD3 usa MIDI Core com 122 articulações. Como o NakedDrums tem 23 instrumento
 
 ## Canais disponíveis (16)
 
-```
-KickIn, KickSub,
-SnareTop, SnareBot,
-Tom1, Tom2, Tom3, Tom4, Tom5,
-Hats,
-OHL, OHR,
-FarRoomsL, FarRoomsR, CloseRoom, 
-MidSide
-```
+1. KickIn
+2. KickSub
+3. SnareTop
+4. SnareBot
+5. Hats
+6. Tom1
+7. Tom2
+8. Tom3
+9. Tom4
+10. Tom5
+11. OHL
+12. OHR
+13. FarRoomsL
+14. FarRoomsR
+15. CloseRoom 
+16. MidSide
 
 Cada canal pode ser roteado para uma track separada e processado individualmente. O kit já vem com **hi-hat atenuado em −9 dB** e **MidSide em mono** para equilibrar o mix de fábrica — mas todos os canais estão intactos e você pode processar como quiser.
 
