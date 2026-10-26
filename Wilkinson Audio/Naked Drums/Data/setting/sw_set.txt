@@ -1,3 +1,0 @@
-sw_lokey=$SW_NON
-sw_hikey=$SW_VAR
-sw_default=$SW_DEF

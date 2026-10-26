@@ -1,4 +1,0 @@
-<master>
-locc$FR_CHN1=1
-amplitude_oncc$FR_CHN1=$RANGE_VOL
-#include "../Data/group/china1_fr.txt"

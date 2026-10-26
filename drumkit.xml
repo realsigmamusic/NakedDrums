@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<drumkit name="Naked Drums" samplerate="44100">
+
+	<metadata>
+		<version>1.0.0</version>
+		<title>Naked Drums (Wilkinson Audio)</title>
+		<description>Naked Drums is a multi-mics drumkit from Wilkinson Audio, with 10 round-robins, up to 5 velocity layers and several mic layers (Direct, OH, Close room, Far rooms, Mid-side and Wide OH).</description>
+		<license>CC BY 4.0</license>
+	</metadata>
+
+	<channels>
+		<channel name="KickIn"/>
+		<channel name="KickSub"/>
+		<channel name="SnareTop"/>
+		<channel name="SnareBot"/>
+		<channel name="Hats"/>
+		<channel name="Tom1"/>
+		<channel name="Tom2"/>
+		<channel name="Tom3"/>
+		<channel name="Tom4"/>
+		<channel name="Tom5"/>
+		<channel name="OHL"/>
+		<channel name="OHR"/>
+		<channel name="FarRoomsL"/>
+		<channel name="FarRoomsR"/>
+		<channel name="CloseRoom"/>
+		<channel name="MidSide"/>
+	</channels>
+
+	<instruments>
+
+		<instrument name="Kick_Center" file="instruments/Kick_Center.xml">
+			<channelmap in="KickIn"    out="KickIn" main="true"/>
+			<channelmap in="KickSub"   out="KickSub" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+
+		<instrument name="Snare1_Center" file="instruments/Snare1_Center.xml">
+			<channelmap in="SnareTop"  out="SnareTop" main="true"/>
+			<channelmap in="SnareBot"  out="SnareBot" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Snare2_Center" file="instruments/Snare2_Center.xml">
+			<channelmap in="SnareTop"  out="SnareTop" main="true"/>
+			<channelmap in="SnareBot"  out="SnareBot" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Snare_Sidestick" file="instruments/Snare_Sidestick.xml">
+			<channelmap in="SnareTop"  out="SnareTop" main="true"/>
+			<channelmap in="SnareBot"  out="SnareBot" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+
+
+		<instrument name="Tom1_Center" file="instruments/Tom1_Center.xml">
+			<channelmap in="Tom1"      out="Tom1" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Tom2_Center" file="instruments/Tom2_Center.xml">
+			<channelmap in="Tom2"      out="Tom2" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Tom3_Center" file="instruments/Tom3_Center.xml">
+			<channelmap in="Tom3"      out="Tom3" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Tom4_Center" file="instruments/Tom4_Center.xml">
+			<channelmap in="Tom4"      out="Tom4" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Tom5_Center" file="instruments/Tom5_Center.xml">
+			<channelmap in="Tom5"      out="Tom5" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+
+
+		<instrument name="Hats_Closed" file="instruments/Hats_Closed.xml">
+			<channelmap in="Hats"      out="Hats" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+			<chokes>
+				<!-- override the default 68ms with 100ms -->
+				<choke instrument="Hats_Half" choketime="100"/>
+				<choke instrument="Hats_Open" choketime="100"/>
+			</chokes>
+		</instrument>
+		<instrument name="Hats_Half" file="instruments/Hats_Half.xml">
+			<channelmap in="Hats"      out="Hats" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+			<chokes>
+				<!-- override the default 68ms with 100ms -->
+				<choke instrument="Hats_Open" choketime="100"/>
+			</chokes>
+		</instrument>
+		<instrument name="Hats_Open" file="instruments/Hats_Open.xml">
+			<channelmap in="Hats"      out="Hats" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Hats_Pedal" file="instruments/Hats_Pedal.xml">
+			<channelmap in="Hats"      out="Hats" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+			<chokes>
+				<!-- override the default 68ms with 100ms -->
+				<choke instrument="Hats_Half" choketime="100"/>
+				<choke instrument="Hats_Open" choketime="100"/>
+			</chokes>
+		</instrument>
+		<instrument name="Hats_Tight" file="instruments/Hats_Tight.xml">
+			<channelmap in="Hats"      out="Hats" main="true"/>
+			<channelmap in="OHL"       out="OHL"/>
+			<channelmap in="OHR"       out="OHR"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+			<chokes>
+				<!-- override the default 68ms with 100ms -->
+				<choke instrument="Hats_Half" choketime="100"/>
+				<choke instrument="Hats_Open" choketime="100"/>
+			</chokes>
+		</instrument>
+
+
+
+		<instrument name="Crash1_Bell" file="instruments/Crash1_Bell.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Crash1_Edge" file="instruments/Crash1_Edge.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+		<instrument name="Crash2_Bell" file="instruments/Crash2_Bell.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Crash2_Edge" file="instruments/Crash2_Edge.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+		<instrument name="Ride_Bell" file="instruments/Ride_Bell.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Ride_Bow" file="instruments/Ride_Bow.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+		<instrument name="Splash1_Edge" file="instruments/Splash1_Edge.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="Splash2_Edge" file="instruments/Splash2_Edge.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+		<instrument name="China1_Edge" file="instruments/China1_Edge.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+		<instrument name="China2_Edge" file="instruments/China2_Edge.xml">
+			<channelmap in="OHL"       out="OHL" main="true"/>
+			<channelmap in="OHR"       out="OHR" main="true"/>
+			<channelmap in="CloseRoom" out="CloseRoom"/>
+			<channelmap in="FarRoomsL" out="FarRoomsL"/>
+			<channelmap in="FarRoomsR" out="FarRoomsR"/>
+			<channelmap in="MidSide"   out="MidSide"/>
+		</instrument>
+
+
+	</instruments>
+</drumkit>

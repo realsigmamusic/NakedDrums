@@ -1,2 +1,0 @@
-<master>
-#include "../Data/group/ride_di.txt"

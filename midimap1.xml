@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<midimap>
+	<!-- Superior Drummer 3 (Core MIDI) -> DrumGizmo / NakedDrums (Snare1) -->
+
+	<!-- ===== Snare (dedicated triggers) ===== -->
+	<map note="6"   instr="Snare1_Center"/> <!-- Snare Zone Trigger -->
+
+	<!-- ===== Hi-Hat (triggers 7-26) ===== -->
+	<map note="7"   instr="Hats_Closed"/> <!-- HH Edge Trigger -->
+	<map note="8"   instr="Hats_Closed"/> <!-- HH Tip Trigger -->
+	<map note="9"   instr="Hats_Closed"/> <!-- HH Bell Trigger -->
+	<map note="10"  instr="Hats_Pedal"/>  <!-- HH Closed Pedal -->
+	<map note="11"  instr="Hats_Closed"/> <!-- HH Closed Tip -->
+	<map note="12"  instr="Hats_Half"/>   <!-- HH Open Tip 0 -->
+	<map note="13"  instr="Hats_Half"/>   <!-- HH Open Tip 1 -->
+	<map note="14"  instr="Hats_Open"/>   <!-- HH Open Tip 2 -->
+	<map note="15"  instr="Hats_Open"/>   <!-- HH Open Tip 3 -->
+	<map note="16"  instr="Hats_Open"/>   <!-- HH Open Tip 4 -->
+	<map note="17"  instr="Hats_Open"/>   <!-- HH Open Tip 5 -->
+	<map note="18"  instr="Hats_Closed"/> <!-- HH Edge Trigger -->
+	<map note="19"  instr="Hats_Closed"/> <!-- HH Tip Trigger -->
+	<map note="20"  instr="Hats_Closed"/> <!-- HH Shaft Trigger -->
+	<map note="21"  instr="Hats_Pedal"/>  <!-- HH Closed Pedal -->
+	<map note="22"  instr="Hats_Closed"/> <!-- HH Closed Edge -->
+	<map note="23"  instr="Hats_Half"/>   <!-- HH Open Pedal -->
+	<map note="24"  instr="Hats_Half"/>   <!-- HH Open Edge 1 -->
+	<map note="25"  instr="Hats_Half"/>   <!-- HH Open Edge 2 -->
+	<map note="26"  instr="Hats_Open"/>   <!-- HH Open Edge 3 -->
+
+	<!-- ===== Cymbal 2 (triggers 27-28, low octave) ===== -->
+	<map note="27"  instr="Crash2_Edge"/> <!-- Cymbal 2 Bow Tip -->
+	<map note="28"  instr="Crash2_Bell"/> <!-- Cymbal 2 Bell Shank -->
+
+	<!-- ===== Ride (29-30) ===== -->
+	<map note="29"  instr="Ride_Bow"/>  <!-- Ride Bow Shank -->
+	<map note="30"  instr="Ride_Bell"/> <!-- Ride Bell Tip -->
+
+	<!-- ===== Cymbal 4 (31-32) ===== -->
+	<map note="31"  instr="Splash1_Edge"/> <!-- Cymbal 4 Bow Tip -->
+	<map note="32"  instr="Splash2_Edge"/> <!-- Cymbal 4 Bell Shank -->
+
+	<!-- ===== Snare ===== -->
+	<map note="33"  instr="Snare1_Center"/>   <!-- Snare Edge -->
+	<map note="37"  instr="Snare_Sidestick"/> <!-- Snare Sidestick -->
+	<map note="38"  instr="Snare1_Center"/>   <!-- Snare Center -->
+	<map note="39"  instr="Snare1_Center"/>   <!-- Snare Closed Roll -->
+	<map note="40"  instr="Snare1_Center"/>   <!-- Snare Rimshot -->
+	<map note="66"  instr="Snare1_Center"/>   <!-- Snare Backward Swirl -->
+	<map note="67"  instr="Snare1_Center"/>   <!-- Snare Forward Swirl -->
+	<map note="68"  instr="Snare1_Center"/>   <!-- Snare Muted -->
+	<map note="69"  instr="Snare1_Center"/>   <!-- Snare Flam -->
+	<map note="70"  instr="Snare1_Center"/>   <!-- Snare Muted Accent -->
+	<map note="71"  instr="Snare_Sidestick"/> <!-- Snare Rim Only -->
+	<map note="76"  instr="Snare_Sidestick"/> <!-- Snare Sidestick -->
+	<map note="125" instr="Snare1_Center"/>   <!-- Snare Off Center -->
+	<map note="126" instr="Snare1_Center"/>   <!-- Snare Backward Brush -->
+	<map note="127" instr="Snare1_Center"/>   <!-- Snare Forward Brush -->
+
+	<!-- ===== Kick ===== -->
+	<map note="34"  instr="Kick_Center"/> <!-- Kick Open -->
+	<map note="35"  instr="Kick_Center"/> <!-- Kick Hit -->
+	<map note="36"  instr="Kick_Center"/> <!-- Kick Open -->
+
+	<!-- ===== Toms (center + rim mapeados para Center) ===== -->
+	<map note="41"  instr="Tom5_Center"/> <!-- Floortom 2 Center -->
+	<map note="43"  instr="Tom4_Center"/> <!-- Floortom 1 Center -->
+	<map note="45"  instr="Tom3_Center"/> <!-- Racktom 3 Center -->
+	<map note="47"  instr="Tom2_Center"/> <!-- Racktom 2 Center -->
+	<map note="48"  instr="Tom1_Center"/> <!-- Racktom 1 Center -->
+	<map note="72"  instr="Tom5_Center"/> <!-- Floortom 2 Rim Only -->
+	<map note="73"  instr="Tom5_Center"/> <!-- Floortom 2 Rimshot -->
+	<map note="74"  instr="Tom4_Center"/> <!-- Floortom 1 Rim Only -->
+	<map note="75"  instr="Tom4_Center"/> <!-- Floortom 1 Rimshot -->
+	<map note="77"  instr="Tom3_Center"/> <!-- Racktom 3 Rim Only -->
+	<map note="78"  instr="Tom3_Center"/> <!-- Racktom 3 Rimshot -->
+	<map note="79"  instr="Tom2_Center"/> <!-- Racktom 2 Rim Only -->
+	<map note="80"  instr="Tom2_Center"/> <!-- Racktom 2 Rimshot -->
+	<map note="81"  instr="Tom1_Center"/> <!-- Racktom 1 Rim Only -->
+	<map note="82"  instr="Tom1_Center"/> <!-- Racktom 1 Rimshot -->
+
+	<!-- ===== Hi-Hat (triggers 42-65, notas GM) ===== -->
+	<map note="42"  instr="Hats_Closed"/> <!-- HH Closed Tip -->
+	<map note="44"  instr="Hats_Pedal"/>  <!-- HH Closed Pedal -->
+	<map note="46"  instr="Hats_Half"/>   <!-- HH Open Edge 2 -->
+	<map note="60"  instr="Hats_Open"/>   <!-- HH Open Edge 4 -->
+	<map note="61"  instr="Hats_Closed"/> <!-- HH Closed Tip -->
+	<map note="62"  instr="Hats_Tight"/>  <!-- HH Tight Edge -->
+	<map note="63"  instr="Hats_Tight"/>  <!-- HH Tight Tip -->
+	<map note="64"  instr="Hats_Half"/>   <!-- HH Open Edge 0 -->
+	<map note="65"  instr="Hats_Closed"/> <!-- HH Sequenced Hits -->
+	<map note="119" instr="Hats_Closed"/> <!-- HH Closed Bell -->
+	<map note="120" instr="Hats_Half"/>   <!-- HH Open Bell 0 -->
+	<map note="121" instr="Hats_Open"/>   <!-- HH Open Bell 1 -->
+	<map note="122" instr="Hats_Open"/>   <!-- HH Open Bell 2 -->
+	<map note="123" instr="Hats_Open"/>   <!-- HH Open Bell 3 -->
+	<map note="124" instr="Hats_Open"/>   <!-- HH Open Bell 4 -->
+
+	<!-- ===== Cymbal 1 ===== -->
+	<map note="83"  instr="Crash1_Edge"/> <!-- Cymbal 1 Mute Hit -->
+	<map note="84"  instr="Crash1_Bell"/> <!-- Cymbal 1 Bow Tip -->
+	<map note="85"  instr="Crash1_Bell"/> <!-- Cymbal 1 Bell Shank -->
+	<map note="86"  instr="Crash1_Edge"/> <!-- Cymbal 1 Crash -->
+	<map note="87"  instr="Crash1_Bell"/> <!-- Cymbal 1 Bow Shank -->
+	<map note="88"  instr="Crash1_Bell"/> <!-- Cymbal 1 Bell Tip -->
+
+	<!-- ===== Cymbal 2 ===== -->
+	<map note="49"  instr="Crash1_Edge"/> <!-- Cymbal 2 Crash -->
+	<map note="50"  instr="Crash1_Edge"/> <!-- Cymbal 2 Mute Hit -->
+	<map note="89"  instr="Crash1_Edge"/> <!-- Cymbal 2 Bow Tip -->
+	<map note="90"  instr="Crash1_Bell"/> <!-- Cymbal 2 Bell Shank -->
+	<map note="91"  instr="Crash1_Edge"/> <!-- Cymbal 2 Crash -->
+	<map note="92"  instr="Crash1_Edge"/> <!-- Cymbal 2 Bow Shank -->
+	<map note="93"  instr="Crash1_Bell"/> <!-- Cymbal 2 Bell Tip -->
+	<map note="94"  instr="Crash1_Edge"/> <!-- Cymbal 2 Mute Hit -->
+
+	<!-- ===== Cymbal 3 ===== -->
+	<map note="55"  instr="China1_Edge"/> <!-- Cymbal 3 Crash -->
+	<map note="56"  instr="China1_Edge"/> <!-- Cymbal 3 Mute Hit -->
+	<map note="95"  instr="China1_Edge"/> <!-- Cymbal 3 Mute Hit -->
+	<map note="96"  instr="China2_Edge"/> <!-- Cymbal 3 Bow Tip -->
+	<map note="97"  instr="China2_Edge"/> <!-- Cymbal 3 Bell Shank -->
+	<map note="98"  instr="China1_Edge"/> <!-- Cymbal 3 Crash -->
+	<map note="99"  instr="China2_Edge"/> <!-- Cymbal 3 Bow Shank -->
+	<map note="100" instr="China2_Edge"/> <!-- Cymbal 3 Bell Tip -->
+
+	<!-- ===== Cymbal 4 ===== -->
+	<map note="57"  instr="Crash2_Edge"/> <!-- Cymbal 4 Crash -->
+	<map note="58"  instr="Crash2_Edge"/> <!-- Cymbal 4 Mute Hit -->
+	<map note="101" instr="Crash2_Edge"/> <!-- Cymbal 4 Bow Tip -->
+	<map note="102" instr="Crash2_Edge"/> <!-- Cymbal 4 Bell Shank -->
+	<map note="103" instr="Crash2_Edge"/> <!-- Cymbal 4 Crash -->
+	<map note="104" instr="Crash2_Edge"/> <!-- Cymbal 4 Bow Shank -->
+	<map note="105" instr="Crash2_Edge"/> <!-- Cymbal 4 Bell Tip -->
+	<map note="106" instr="Crash2_Edge"/> <!-- Cymbal 4 Mute Hit -->
+
+	<!-- ===== Cymbal 5 ===== -->
+	<map note="52"  instr="Crash2_Edge"/> <!-- Cymbal 5 Crash -->
+	<map note="54"  instr="Crash2_Edge"/> <!-- Cymbal 5 Mute Hit -->
+	<map note="107" instr="Crash2_Edge"/> <!-- Cymbal 5 Mute Hit -->
+	<map note="108" instr="Crash2_Edge"/> <!-- Cymbal 5 Bow Tip -->
+	<map note="109" instr="Crash2_Bell"/> <!-- Cymbal 5 Bell Shank -->
+	<map note="110" instr="Crash2_Edge"/> <!-- Cymbal 5 Crash -->
+	<map note="111" instr="Crash2_Edge"/> <!-- Cymbal 5 Bow Shank -->
+	<map note="112" instr="Crash2_Bell"/> <!-- Cymbal 5 Bell Tip -->
+
+	<!-- ===== Ride ===== -->
+	<map note="51"  instr="Ride_Bow"/>  <!-- Ride Bow Tip -->
+	<map note="53"  instr="Ride_Bell"/> <!-- Ride Bell Shank -->
+	<map note="59"  instr="Ride_Bow"/>  <!-- Ride Edge -->
+	<map note="113" instr="Ride_Bow"/>  <!-- Ride Bow Tip -->
+	<map note="114" instr="Ride_Bell"/> <!-- Ride Bell Shank -->
+	<map note="115" instr="Ride_Bow"/>  <!-- Ride Edge -->
+	<map note="116" instr="Ride_Bow"/>  <!-- Ride Bow Shank -->
+	<map note="117" instr="Ride_Bell"/> <!-- Ride Bell Tip -->
+	<map note="118" instr="Ride_Bow"/>  <!-- Ride Mute Hit -->
+</midimap>

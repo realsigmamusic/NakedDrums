@@ -1,4 +1,0 @@
-<master>
-locc$FR_TOM3=1
-amplitude_oncc$FR_TOM3=$RANGE_VOL
-#include "../Data/group/tom3_fr.txt"

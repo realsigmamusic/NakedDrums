@@ -1,1 +1,0 @@
-label_cc$PED=$LAB_PED ($PED)

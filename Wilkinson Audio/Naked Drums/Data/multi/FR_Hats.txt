@@ -1,4 +1,0 @@
-<master>
-locc$FR_HH=1
-amplitude_oncc$FR_HH=$RANGE_VOL
-#include "../Data/group/hats_fr.txt"

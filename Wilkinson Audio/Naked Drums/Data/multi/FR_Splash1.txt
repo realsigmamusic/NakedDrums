@@ -1,4 +1,0 @@
-<master>
-locc$FR_SPL1=1
-amplitude_oncc$FR_SPL1=$RANGE_VOL
-#include "../Data/group/splash1_fr.txt"

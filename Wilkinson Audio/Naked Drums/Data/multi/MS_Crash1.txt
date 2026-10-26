@@ -1,4 +1,0 @@
-<master>
-locc$MS_CRS1=1
-amplitude_oncc$MS_CRS1=$RANGE_VOL
-#include "../Data/group/crash1_ms.txt"

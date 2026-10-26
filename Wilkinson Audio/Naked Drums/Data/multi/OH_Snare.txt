@@ -1,4 +1,0 @@
-<master>
-locc$OH_SNR=1
-amplitude_oncc$OH_SNR=$RANGE_VOL
-#include "../Data/group/snare_oh.txt"

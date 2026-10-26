@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<instrument name="Hats_Open" version="2.0">
+	<samples>
+		<sample name="Hats_Open_Vel01_RR01" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR01.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR02" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR02.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR03" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR03.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR04" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR04.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR05" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR05.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR06" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR06.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR07" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR07.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR08" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR08.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR09" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR09.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel01_RR10" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel01_RR10.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel01_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel01_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel01_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel01_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel01_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel01_RR10.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR01" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR01.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR02" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR02.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR03" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR03.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR04" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR04.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR05" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR05.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR06" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR06.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR07" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR07.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR08" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR08.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR09" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR09.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel02_RR10" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel02_RR10.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel02_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel02_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel02_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel02_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel02_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel02_RR10.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR01" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR01.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR02" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR02.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR03" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR03.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR04" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR04.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR05" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR05.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR06" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR06.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR07" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR07.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR08" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR08.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR09" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR09.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Hats_Open_Vel03_RR10" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Hats_Open_Vel03_RR10.wav" channel="Hats"/>
+			<audiofile filechannel="2" file="../Samples/Hats_Open_Vel03_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="3" file="../Samples/Hats_Open_Vel03_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="4" file="../Samples/Hats_Open_Vel03_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="5" file="../Samples/Hats_Open_Vel03_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="6" file="../Samples/Hats_Open_Vel03_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="7" file="../Samples/Hats_Open_Vel03_RR10.wav" channel="MidSide"/>
+		</sample>
+	</samples>
+</instrument>

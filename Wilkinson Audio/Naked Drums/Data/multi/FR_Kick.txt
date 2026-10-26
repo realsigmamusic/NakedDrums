@@ -1,4 +1,0 @@
-<master>
-locc$FR_KICK=1
-amplitude_oncc$FR_KICK=$RANGE_VOL
-#include "../Data/group/kick_fr.txt"

@@ -1,4 +1,0 @@
-<master>
-locc$MS_CHN2=1
-amplitude_oncc$MS_CHN2=$RANGE_VOL
-#include "../Data/group/china2_ms.txt"

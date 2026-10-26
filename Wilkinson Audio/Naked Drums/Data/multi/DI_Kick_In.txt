@@ -1,2 +1,0 @@
-<master>
-#include "../Data/group/kick_in.txt"

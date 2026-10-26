@@ -1,4 +1,0 @@
-<master>
-locc$FR_SNR=1
-amplitude_oncc$FR_SNR=$RANGE_VOL
-#include "../Data/group/snare_fr.txt"

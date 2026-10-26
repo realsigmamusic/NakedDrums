@@ -1,2 +1,0 @@
-sw_last=$SW_NON
-sw_label=$LAB_NON $LAB_HH

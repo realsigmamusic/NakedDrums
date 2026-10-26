@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<instrument name="Snare2_Center" version="2.0">
+	<samples>
+		<sample name="Snare2_Center_Vel01_RR01" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR02" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR03" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR04" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR05" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR06" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR07" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR08" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR09" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel01_RR10" power="0.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel01_RR10.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR01" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR02" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR03" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR04" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR05" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR06" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR07" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR08" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR09" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel02_RR10" power="0.2500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel02_RR10.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR01" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR02" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR03" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR04" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR05" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR06" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR07" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR08" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR09" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel03_RR10" power="0.5000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel03_RR10.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR01" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR02" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR03" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR04" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR05" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR06" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR07" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR08" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR09" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel04_RR10" power="0.7500" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel04_RR10.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR01" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR01.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR02" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR02.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR03" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR03.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR04" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR04.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR05" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR05.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR06" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR06.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR07" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR07.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR08" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR08.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR09" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR09.wav" channel="MidSide"/>
+		</sample>
+		<sample name="Snare2_Center_Vel05_RR10" power="1.0000" normalized="true">
+			<audiofile filechannel="1" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="SnareTop"/>
+			<audiofile filechannel="2" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="SnareBot"/>
+			<audiofile filechannel="3" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="OHL"/>
+			<audiofile filechannel="4" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="OHR"/>
+			<audiofile filechannel="5" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="CloseRoom"/>
+			<audiofile filechannel="6" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="FarRoomsL"/>
+			<audiofile filechannel="7" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="FarRoomsR"/>
+			<audiofile filechannel="8" file="../Samples/Snare2_Center_Vel05_RR10.wav" channel="MidSide"/>
+		</sample>
+	</samples>
+</instrument>
